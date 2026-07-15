@@ -1,0 +1,4 @@
+﻿product,total_count,ng_count,avg_quality_score,avg_temperature,avg_vibration,ng_ratio
+P_A,39,7,91.21,25.91,0.33,17.95
+P_B,39,11,90.69,26.54,0.34,28.21
+P_C,42,8,91.13,25.72,0.37,19.05
