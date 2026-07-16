@@ -1,5 +1,4 @@
-﻿machine_id,avg_temp,avg_press,avg_quality_score
-EQP_01,26.62,2.81,90.87
-EQP_02,25.39,2.8,91.5
-EQP_03,26.25,2.88,90.44
-EQP_04,25.75,2.78,91.41
+﻿machine_id,total_count,avg_temperature,avg_pressure,ng_count,ng_ratio_pct
+MC_01,36,25.73361111111111,2.8344444444444448,8,22.22
+MC_02,37,26.237837837837837,2.844324324324324,3,8.11
+MC_03,40,26.56775,2.8739999999999997,9,22.5

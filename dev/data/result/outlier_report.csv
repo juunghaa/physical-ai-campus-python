@@ -1,0 +1,7 @@
+﻿column,min_value,max_value,outlier_count
+temperature_c,0,100,1
+pressure_bar,0,10,1
+speed_mps,0,20,1
+humidity_pct,0,100,1
+vibration_mm_s,0,20,1
+current_a,0,30,1
